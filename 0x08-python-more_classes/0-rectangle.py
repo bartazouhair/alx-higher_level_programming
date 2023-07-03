@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+""" Class Rectangle """
+
+
 class Rectangle:
-    def __init__(self):
-        pass
+    """ Empty class Rectangle """
+    pass
