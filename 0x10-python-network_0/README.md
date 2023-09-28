@@ -1,4 +1,4 @@
-# Network #0
+# Networe #0
 
 # Learning Objectives
 
@@ -20,7 +20,7 @@
 * How to make a request with cURL
 * What happens when you type google.com in your browser (Application level)
 
-# Tasks
+# Here is All Tasks
 
 ## cURL body size
 
